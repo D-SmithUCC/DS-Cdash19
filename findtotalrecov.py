@@ -1,4 +1,4 @@
-fi = open("05-19-2020.csv","r")
+fi = open("05-23-2020.csv","r")
 fi.readline() # skip over first title line
 datarows = fi.readlines()
 fi.close()
